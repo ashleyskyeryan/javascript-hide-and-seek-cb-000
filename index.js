@@ -1,4 +1,3 @@
 function getFirstSelector(selector) {
-  document.querySelector('li')
-
+  document.querySelector('is')
 }
